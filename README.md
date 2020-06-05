@@ -1,2 +1,2 @@
 # Testing_pull_request
-Test
+This is a test to see how pull request works.
